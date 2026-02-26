@@ -29,12 +29,13 @@ export default function TrustSection() {
 
         {/* Big Stat */}
         <div className="mb-4">
-          <span className="text-primary font-black leading-none block"
+          <span
+            className="text-primary font-black leading-[0.85] block"
             style={{ fontSize: "clamp(5rem, 18vw, 12rem)" }}
           >
             30+
           </span>
-          <span className="text-text-main font-black text-3xl md:text-5xl tracking-tight uppercase leading-tight block">
+          <span className="text-text-main font-black text-3xl md:text-5xl tracking-tight uppercase leading-tight block mt-4">
             Years of Experience
           </span>
         </div>

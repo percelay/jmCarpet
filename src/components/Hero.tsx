@@ -16,7 +16,7 @@ export default function Hero() {
           </div>
 
           {/* H1 */}
-          <h1 className="text-5xl md:text-6xl xl:text-[4.25rem] font-black text-white leading-[1.05] tracking-tight mb-6">
+          <h1 className="text-5xl md:text-6xl xl:text-[4.25rem] font-black text-white leading-[1.1] tracking-tight mb-6">
             Stylish, Durable Flooring{" "}
             <span className="text-accent">for Every Budget.</span>
           </h1>
