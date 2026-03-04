@@ -14,7 +14,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-4xl md:text-6xl font-black text-text-main leading-[1.05] tracking-tight mb-6">
-            JM Carpet Express Inc
+            JM Carpet Express
             <span className="text-primary block mt-2">Floors Done Right.</span>
           </h1>
 
@@ -64,7 +64,7 @@ export default function Hero() {
         </div>
 
         <div className="relative">
-          <div className="relative w-full max-w-2xl mx-auto aspect-[4/3] rounded-2xl overflow-hidden border-4 border-white shadow-[0_20px_65px_rgba(15,76,92,0.25)]">
+          <div className="relative w-full max-w-2xl mx-auto aspect-square rounded-2xl overflow-hidden border-4 border-white shadow-[0_20px_65px_rgba(15,76,92,0.25)]">
             <Image
               src="/images/staining.jpg"
               alt="Floor staining project by JM Carpet Express Inc"

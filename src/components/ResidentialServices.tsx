@@ -14,7 +14,7 @@ const services = [
   {
     title: "Luxury Carpeting & Rugs",
     body: "Featuring broadloom carpeting, custom runners, 100% wool luxury prints, and pet-resistant fibers for the modern family.",
-    image: "/images/gal1.jpg",
+    image: "/images/Screenshot 2026-03-03 at 5.05.06 PM.png",
     alt: "Luxury carpet and rug installation",
     fallbackGradient:
       "linear-gradient(135deg, #4A3B32 0%, #6B5548 40%, #7D6358 100%)",

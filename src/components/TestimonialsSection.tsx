@@ -29,9 +29,13 @@ export default function TestimonialsSection() {
           </span>
         </div>
 
-        <h2 className="text-4xl md:text-5xl font-black text-text-main leading-tight tracking-tight mb-12">
+        <h2 className="text-4xl md:text-5xl font-black text-text-main leading-tight tracking-tight mb-6">
           What Customers Say About JM Carpet Express
         </h2>
+
+        <p className="text-text-main/50 text-sm font-semibold mb-12">
+          In business for over 30 years — serving homeowners and contractors across New Jersey.
+        </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
           {testimonials.map((item) => (
